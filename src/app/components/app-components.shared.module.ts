@@ -3,7 +3,6 @@ import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { TranslateModule } from '@ngx-translate/core';
 import { RouterModule } from '@angular/router';
-import { StyleguideSpecimenComponent } from './shared/styleguide-specimen/styleguide-specimen.component';
 import { JssModule } from '@sitecore-jss/sitecore-jss-angular';
 
 /*
@@ -26,10 +25,8 @@ import { JssModule } from '@sitecore-jss/sitecore-jss-angular';
     TranslateModule,
     RouterModule,
     FormsModule,
-    StyleguideSpecimenComponent
+
   ],
-  declarations: [
-    StyleguideSpecimenComponent
-  ],
+  declarations: []
 })
 export class AppComponentsSharedModule { }
