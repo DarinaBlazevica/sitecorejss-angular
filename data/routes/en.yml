@@ -8,8 +8,8 @@ placeholders:
       fields:
         heading: Bookstore
         shopping_cart:
-          src: assets/svg/shopping-cart.png
+          src: /assets/svg/shopping-cart.png
           alt: shopping cart
         hamburger: 
-          src: assets/svg/hamburger_menu.png
+          src: /assets/svg/hamburger_menu.png
           alt: hamburger menu
