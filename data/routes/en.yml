@@ -10,6 +10,6 @@ placeholders:
         shopping_cart:
           src: /assets/svg/shopping-cart.png
           alt: shopping cart
-        hamburger: 
+        hamburger_button: 
           src: /assets/svg/hamburger_menu.png
           alt: hamburger menu

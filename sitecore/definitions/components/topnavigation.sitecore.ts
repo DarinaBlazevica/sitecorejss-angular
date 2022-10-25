@@ -11,7 +11,7 @@ export default function topnavigation(manifest: Manifest) {
     fields: [
       { name: 'heading', type: CommonFieldTypes.RichText},
       { name: 'shopping_cart', type: CommonFieldTypes.Image},
-      { name: 'hamburger', type: CommonFieldTypes.Image},
+      { name: 'hamburger_button', type: CommonFieldTypes.Image},
 
     ],
   });
